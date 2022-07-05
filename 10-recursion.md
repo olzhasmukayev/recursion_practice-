@@ -18,7 +18,7 @@
 - [Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/) `GFG`
 - [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/) `GFG` - DONE 
 - [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/) `GFG` - DONE
-- [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG`
+- [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG` - DONE
 - [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) `GFG`
 - [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode`
 - [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode`
