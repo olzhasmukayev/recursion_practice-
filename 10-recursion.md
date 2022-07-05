@@ -11,7 +11,7 @@
 - [Reverse String](https://leetcode.com/problems/reverse-string/) `leetcode` - DONE
 - [Print 1 To N Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1/) `GFG` - DONE
 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) `leetcode` - DONE
-- [Special Fibonacci](https://www.codechef.com/problems/FIBXOR01/) `CodeChef`
+- [Special Fibonacci](https://www.codechef.com/problems/FIBXOR01/) `CodeChef`- SOMETHING STUPID
 - [Length of string using Recursion](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/) `GFG` - DONE
 - [Geek-onacci Number](https://practice.geeksforgeeks.org/problems/geek-onacci-number/0/) `GFG` - DONE 
 - [Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/) `GFG`
