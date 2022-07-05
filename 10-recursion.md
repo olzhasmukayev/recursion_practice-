@@ -5,7 +5,7 @@
 
 ## Easy
 - [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) `GFG` - DONE 
-- [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/) `GFG`
+- [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/) `GFG` - DONE
 - [Binary Search using recursion](https://leetcode.com/problems/binary-search/) `leetcode`
 - [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/) `GFG`
 - [Reverse String](https://leetcode.com/problems/reverse-string/) `leetcode`
