@@ -22,7 +22,7 @@
 - [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) `GFG` - DONE
 - [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode` - DONE
 - [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode` - DONE
-- [Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode`
+- [Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode` - DONE
 - Write a recursive function for given n and a to determine x:
 ```java
       n = a ^ x 
